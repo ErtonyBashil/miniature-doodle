@@ -1,2 +1,1 @@
 # miniature-doodle
-<hr>
